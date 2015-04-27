@@ -1,5 +1,6 @@
 # BTech-CSE-Semester1
 My courseworks and materials used are hosted here. :)
+
 Courses:
   1. Chemistry*
   2. Mathematics I
@@ -9,4 +10,4 @@ Courses:
   6. Chemistry Lab
   7. Workshop II (Mechanical)
 
-* Material is provided here
+* Materials are provided here
